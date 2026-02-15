@@ -1,0 +1,5 @@
+#Ignoring virtualenv
+./demo-venv
+
+#Ignoring pycache
+./app/__pycache__
