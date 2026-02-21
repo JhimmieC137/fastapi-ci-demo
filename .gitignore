@@ -2,4 +2,5 @@
 ./demo-venv
 
 #Ignoring pycache
-/app/__pycache__
+/*/__pycache__
+/**/**/__pycache__
